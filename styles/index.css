@@ -104,8 +104,14 @@ body{
     font-weight: 900;
     padding:50px;
     font-family:merriweather ;
+    margin-bottom: 0;
 }
 .party-descriftion{
-
+    display: inline;
+    width: 10px;
+    color:white;
+    font-family:merriweather ;
+    font-size:20px;
+    font-weight:18px ;
 }
 /* party end */
