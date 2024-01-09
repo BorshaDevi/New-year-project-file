@@ -38,6 +38,7 @@ body{
    width:632px;
 }
 /* New year design end */
+
 /* 50% off start */
 .off-sale{
     background-color: rgb(239, 223, 223);
@@ -51,7 +52,7 @@ body{
 }
 .offer-descraftion{
      position: absolute;
-     
+     margin-left:360px;
 }
 .title1{
     text-align: center;
