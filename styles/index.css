@@ -1,6 +1,7 @@
 body{
     font-family: 'Open Sans', sans-serif;
 }
+/* New year design start */
 .nav-style{
     justify-content: center;
     align-items: center;
@@ -12,7 +13,6 @@ body{
     height: 600px;
     position: relative;
     border-radius: 10px;
-    
 }
 .banner{
     color:cyan;
@@ -36,3 +36,6 @@ body{
     font-weight: 900;
     margin-top:10px;
 }
+/* New year design end */
+/* 50% off start */
+/* 50% off end */
