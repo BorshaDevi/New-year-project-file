@@ -52,7 +52,7 @@ body{
 }
 .offer-descraftion{
      position: absolute;
-     margin-left:360px;
+     margin-left:360px; 
 }
 .title1{
     text-align: center;
@@ -84,4 +84,7 @@ body{
 /* 50% off end */
 
 /*  party start*/
+.party{
+    background-image: ;
+}
 /* party end */
