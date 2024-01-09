@@ -1,28 +1,38 @@
 body{
     font-family: 'Open Sans', sans-serif;
 }
+.nav-style{
+    justify-content: center;
+    align-items: center;
+}
 .header{ 
     background-image: url(../images/Banner\ Image.png);
     background-repeat: no-repeat;
-    width:1250px;
-    height: 500px;
-    margin:10px 500px 10px 20px;
+    width:1300px;
+    height: 600px;
+    position: relative;
+    border-radius: 10px;
     
 }
 .banner{
-    margin: 0 auto;
     color:white;
     justify-content: center;
-    text-align: center;
-    margin:10px 10px 10px;
-   
+    align-items: center;
+    position:absolute;
+    margin-left: 220px;
+    margin-top: 40px;
 }
 .banner-title{
     font-family:merriweather ;
+    text-align: center;
+    font-size: 32px;
+    font-weight: 400;
+    margin-bottom: 0;
 }
 .banner-descraftion{
     text-align: center;
     font-family: merriweather;
-    font-size: 35px;
+    font-size: 72px;
     font-weight: 900;
+    margin-top:10px;
 }
