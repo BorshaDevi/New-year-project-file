@@ -40,29 +40,44 @@ body{
 /* New year design end */
 /* 50% off start */
 .off-sale{
- background-color: rgb(239, 223, 223);
+    background-color: rgb(239, 223, 223);
+     position: relative;
+    width:1600px;
+    height: 760px;
+    margin-left: 200px;
  
 }
 .offer-descraftion{
-
+     position: absolute;
+     
 }
 .title1{
     text-align: center;
     font-size:40px;
     font-weight: 400;
     color:rgb(60, 126, 192);
-    font-family:merriweather ;
+    font-family:Inter ;
     
 }
 .title2{
+    margin-bottom: 0;
    color:red;
    text-align: center;
    font-family:merriweather ;
    font-size:15px
-   margin-bottom: 0;
-   
 }
 .title3{
+    color:rgb(60, 126, 192);
+    text-align: center;
+    font-family:merriweather ;
+    margin-top: 10px;
+
+}
+.img{
+    text-align: center;
+    width:500px;
+    height:300px;
+    
 
 }
 /* 50% off end */
